@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pavitoran
+- 👋 Hi, I’m Paulo.
 - 🧠 I’m interested in working, learning, developing skills and colaborating.
 - 🌱 I’m currently learning pyton and MySQL.
 - 🚀 I’m looking to collaborate on JavaScript, Project Management or Agile Methods.
